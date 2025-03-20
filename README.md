@@ -6,3 +6,6 @@ No clima da Copa 2024, foi proposto como primeiro desafio, a criação de uma la
 
 # Observação:
 Vale ressaltar que este foi o meu primeiro site desenvolvido, utilizei apenas HTML e CSS. Busquei aplicar os conceitos básicos de forma criativa e funcional, garantindo uma experiência agradável para o usuário.
+
+![print telainicial](tela.png) 
+[Veja como ficou!]()
